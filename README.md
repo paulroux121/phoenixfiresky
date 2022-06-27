@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phoenixfiresky
+- 👋 Hi, I’m @paulroux121
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Javascript and Webdeveloping
 - 📫 How to reach me:
